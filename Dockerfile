@@ -1,4 +1,4 @@
-FROM minio/minio:RELEASE.2019-03-13T21-59-47Z
+FROM minio/minio:RELEASE.2020-03-19T21-49-00Z
 MAINTAINER none <none@gmail.com>
 
 # Application settings
