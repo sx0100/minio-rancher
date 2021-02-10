@@ -1,5 +1,5 @@
-FROM minio/minio:RELEASE.2018-07-13T00-09-07Z
-MAINTAINER w.tayyeb <w.tayyeb@gmail.com>
+FROM minio/minio:RELEASE.2021-02-07T01-31-02Z
+MAINTAINER none <none@gmail.com>
 
 # Application settings
 ENV SCHEDULER_VOLUME="/opt/scheduler" \
